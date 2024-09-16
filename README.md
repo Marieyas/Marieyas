@@ -2,7 +2,7 @@
 Olá, eu sou a Dáfini Yasmim Santos 
 estou estudando no alura
 l.dafini@escola.pr.gov.br 
-![](https://tenor.com/pt-BR/view/hello-kitty-pink-sanrio-pixel-gif-25889634)
+![]https://tenor.com/pt-BR/view/hello-kitty-pink-sanrio-pixel-gif-25889634
 
 <!--
 **Marieyas/Marieyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
