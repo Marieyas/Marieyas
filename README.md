@@ -1,7 +1,10 @@
 ## Hi there 👋
-Olá, eu sou a Dáfini Yasmim Santos 
-estou estudando no alura
+Olá, eu sou a Dáfini Yasmim Santos.
+
+Estou estudando no alura.
+
 l.dafini@escola.pr.gov.br 
+
 ![]https://tenor.com/pt-BR/view/hello-kitty-pink-sanrio-pixel-gif-25889634
 
 <!--
