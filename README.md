@@ -1,4 +1,7 @@
 ## Hi there 👋
+Olá, eu sou a Dáfini Yasmim Santos 
+estou estudando no alura
+l.dafini@escola.pr.gov.br 
 
 <!--
 **Marieyas/Marieyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
